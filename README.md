@@ -139,4 +139,6 @@ Potential extensions include:
 
 This project was built as a small exploration of AI security and prompt injection detection.
 
+I'm still learning and this is one of my early projects, so it is not perfect and should not be considered a complete security solution. It is a starting point for learning about prompt injection, rule-based detection, and AI security, with plenty of room for improvement as I gain more experience.
+
 It demonstrates how a lightweight rule-based approach can be used as an initial detection layer while also highlighting the limitations of pattern-based security systems.
